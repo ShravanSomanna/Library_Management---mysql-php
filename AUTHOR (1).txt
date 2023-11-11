@@ -1,0 +1,34 @@
+BOOKAUTHORS : BOOKID ,AUTHORNAME
+
+insert into branchauthor values(1,"DAVID BALDACCI");
+insert into branchauthor values(2,"J.K.GALBRAITH");
+insert into branchauthor values(3,"GUNNER MYRDAL");
+insert into branchauthor values(4,"ARHER HELE");
+insert into branchauthor values(5,"TONY BLAIR");
+insert into branchauthor values(6,"WILLIAM SHAKESPEARE");
+insert into branchauthor values(7,"GEORGE ORWELL");
+insert into branchauthor values(8,"E.M.FORSTER");
+insert into branchauthor values(9,"GEORGE BERNAD");
+insert into branchauthor values(10,"ANTON CHEKHOV");
+insert into branchauthor values(11,"WILLIAM SHAKESPEARE");
+insert into branchauthor values(12,"CARL MARKS");
+insert into branchauthor values(13,"CHARLES DICKENS");
+insert into branchauthor values(14,"DANTE");
+insert into branchauthor values(15,"GEORGE ORWELL");
+insert into branchauthor values(16,"WILLIAM SHAKESPEARE");
+insert into branchauthor values(17,"HAROLD EVANS");
+insert into branchauthor values(18,"Z.A.BARRIE");
+insert into branchauthor values(19,"STENDHAL");
+insert into branchauthor values(20,"ADOLF HITLER");
+insert into branchauthor values(21,"CARL MARKS");
+insert into branchauthor values(22,"MAXIM GORKY");
+insert into branchauthor values(23,"HOMER");
+insert into branchauthor values(24,"CHARLES DECKENS");
+insert into branchauthor values(25,"ARASTU");
+insert into branchauthor values(26,"PLATO");
+insert into branchauthor values(27,"LEO TOLSTOY");
+insert into branchauthor values(28,"CARL MARKS");
+insert into branchauthor values(29,"ADAM SMITH");
+insert into branchauthor values(30,"CARL MARKS");
+
+

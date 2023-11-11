@@ -1,0 +1,35 @@
+BOOKAUTHORS : BOOKID ,AUTHORNAME
+
+insert into book values(1,"DAVID BALDACCI");
+insert into book values(2,"J.K.GALBRAITH");
+insert into book values(3,"GUNNER MYRDAL");
+insert into book values(4,"ARHER HELE");
+insert into book values(5,"TONY BLAIR");
+insert into book values(6,"WILLIAM SHAKESPEARE");
+insert into book values(7,"GEORGE ORWELL");
+insert into book values(8,"E.M.FORSTER");
+insert into book values(9,"GEORGE BERNAD");
+insert into book values(10,"ANTON CHEKHOV");
+insert into book values(11,"WILLIAM SHAKESPEARE");
+insert into book values(12,"CARL MARKS");
+insert into book values(13,"CHARLES DICKENS");
+insert into book values(14,"DANTE");
+insert into book values(15,"GEORGE ORWELL");
+insert into book values(16,"WILLIAM SHAKESPEARE");
+insert into book values(17,"HAROLD EVANS");
+insert into book values(18,"Z.A.BARRIE");
+insert into book values(19,"STENDHAL");
+insert into book values(20,"ADOLF HITLER");
+insert into book values(21,"CARL MARKS");
+insert into book values(22,"MAXIM GORKY");
+insert into book values(23,"HOMER");
+insert into book values(24,"CHARLES DECKENS");
+insert into book values(25,"ARASTU");
+insert into book values(26,"PLATO");
+insert into book values(27,"LEO TOLSTOY");
+insert into book values(28,"CARL MARKS");
+insert into book values(29,"ADAM SMITH");
+insert into book values(30,"CARL MARKS");
+
+
+

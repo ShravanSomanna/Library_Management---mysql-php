@@ -1,0 +1,33 @@
+Book : BOOK_Id , title , PUBLISHER_NAME , PUB_Year
+insert into book values(1,"ABSALOM","WILLIAM FAULKNER",1936);
+insert into book values(2,"A TIME TO KILL","JOHN GRISHAM",1989);
+insert into book values(3,"HOUSE OF MIRTH","EDITH WHARTON",1905);
+insert into book values(4,"EAST OF EDEN","JOHN STEINBECK",1952);
+insert into book values(5,"SUN RISES","ERNEST HEMINGWAY",1926);
+insert into book values(6,"VILE BODIES","EVELYN WAUGH",1930);
+insert into book values(7,"A SCANNER DARKLY","PHILIP K",1977);
+insert into book values(8,"MOAB IS WASHPOT","STEPHEN FRY",1997);
+insert into book values(9,"NUMBER THE STARS","LOIS LOWRY",1989);
+insert into book values(10,"NOLI ME TANGERE","JOSÉ RIZAL",1887);
+insert into book values(11,"BRAVE WORLD","ALDOUS HUXLEY",1921);
+insert into book values(12,"ROSEMARY RUE","SEANAN MCGUIRE",1946);
+insert into book values(13,"PALE FIRE","VLADIMIR NABOKOV",1962);
+insert into book values(14,"REMEMBERENCE","MARCEL PROUST",1922);
+insert into book values(15,"FAULT IN STARS","JOHN GREEN",2012);
+insert into book values(16,"COLD COMFORT","STELLA GIBBONS",1932);
+insert into book values(17,"IN COLD BLOOD","TRUMAN CAPOTE",1966);
+insert into book values(18,"BEHOLD POISON","GEORGETTE HEYER",2001);
+insert into book values(19,"BAND OF BOTHERS","STEPHEN E",2001);
+insert into book values(20,"THE DARK TOWER","STEPHEN KING",1982);
+insert into book values(21,"SOUND FURY","WILLIAM FAULKNER",1929);
+insert into book values(22,"NO WIND","GEORGETTE HEYER",1939);
+insert into book values(23,"I KNOW BIRDS","MAYA ANGELOU",1969);
+insert into book values(24,"ALONE WIDE","MICHAEL MORPURGO",2006);
+insert into book values(25,"DANCE DANCE","HARUKI MURAKAMI",1994);
+insert into book values(26,"GONE WITH WIND","MARGARET M.",1936);
+insert into book values(27,"MORTAL ENGINES","PHILIP REEVE",1936);
+insert into book values(28,"MANY SPLENDOUR","HAN SUYIN",1904);
+insert into book values(29,"LAY DYING","WILLIAM FAULKNER",1930);
+insert into book values(30,"THINGS FALL","CHINUA ACHEBE",1919);
+
+
