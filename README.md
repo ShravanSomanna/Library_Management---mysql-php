@@ -10,7 +10,7 @@ languages
           css
           php
 
-Note 'BOOKLEND' is not available and a query has to be added have it working
+Note 'BOOKLEND' is not available and a query has to be added to have it working
 
 # To run this project follow the steps given in the site 
 # ->    https://studyopedia.com/php/php-installation/  and later open "mainPage.html" on localhost window
